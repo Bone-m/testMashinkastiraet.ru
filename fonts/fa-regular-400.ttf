@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title></title>
+    
+    <meta name="robots" content>
+    <meta name="description" content>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="../images/favicon.png" rel="icon" type="image/png">
+    <link rel="canonical" href="https://mashinkastiraet.ru/oshibka-404.html">
+    <style>.template14 .intro__text a {color:#fff;}</style>
+    <script>
+		window.FontAwesomeConfig = {
+			searchPseudoElements: true
+		}
+	</script>
+	<!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+    var yaParams = {ipaddress: "167.99.222.242"};
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+        
+        ym(53675953, "init", {
+        params:window.yaParams,
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53675953" style="position:absolute; left:-9999px;" alt></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+<link rel="stylesheet" href="../css/fontawesome5.css" type="text/css">
+<link rel="stylesheet" href="../css/styles.css" type="text/css">
+<link rel="stylesheet" href="../css/header_warning-current.css" type="text/css">
+<link rel="stylesheet" href="../css/owl.carousel.min.css" type="text/css">
+<script type="text/javascript" src="../js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="../js/owl.carousel.min.js"></script>
+</head>
+<body>
+    <header class="header">
+	<div class="container">
+	   
+		<div class="row align-items-center justify-content-between flex-nowrap">
+			<div class="col-auto">
+				<a href="../index_1.html" class="logo-text">
+					<img class="logo-text__img" src="../images/logo-and-text.png" alt>
+				</a>
+			</div>
+			<div class="col-auto order-last order-lg-0">
+				<div class="row no-gutters">
+					<nav class="nav">
+						<ul class="nav__list"><li class="nav__item first"><a href="../uslugi-i-czenyi.html" title="Услуги и цены">Услуги и цены</a></li>
+<li class="nav__item"><a href="../mastera-stiralnyh-mashin-v-moskve.html" title="Специалисты нашего сервиса">Мастера</a></li>
+<li class="nav__item"><a href="../otzyivyi.html" title="Отзывы">Отзывы</a></li>
+<li class="nav__item last"><a href="../masterskaya-po-remontu-stiralnyh-mashin.html" title="Контакты">Контакты</a></li>
+</ul>
+					</nav>
+					<div class="col-auto d-lg-none">
+						<button class="nav-btn" id="menuOpen">Открыть меню</button>
+					</div>
+				</div>
+			</div>
+			<div class="col-auto">
+				<div class="text-right">
+					<a itemscope itemtype="http://schema.org/Organization" href="tel:+7 495 134-83-15" class="header__phone" onclick="ym(53675953, 'reachGoal', 'click-phone'); return true;">
+						<i class="fas fa-phone-square mr-2"></i>
+						<span itemprop="telephone">+7 495 134-83-15</span>
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+    <section class="intro height-auto"><div class="container"><h1 class="page-title mb-0">Ошибка 404, страница не существует</h1></div></section>
+    <section class="sec">
+<div class="container">
+<div class="btn-wrap"><a href="../index_1.html" class="btn-default">Вернуться на главную</a></div>
+</div>
+</section>
+	
+<script type="text/javascript" src="../js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../js/scripts.js"></script>
+</body>
+</html>
